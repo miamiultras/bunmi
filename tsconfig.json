@@ -2,7 +2,8 @@
   "extends": "astro/tsconfigs/strict",
   "compilerOptions": {  
     "types": [
-      "node"
+      "node",
+      "bun"
     ],
     "typeRoots": [
       "node_modules/@types",
