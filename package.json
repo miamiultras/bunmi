@@ -11,15 +11,15 @@
   },
   "dependencies": {
     "@astrojs/tailwind": "^5.1.0",
-    "astro": "^4.3.5",
-    "tailwindcss": "^3.4.1"
+    "astro": "^4.11.6",
+    "tailwindcss": "^3.4.6"
   },
   "devDependencies": {
-    "@types/node": "^20.11.17",
-    "@types/bun": "latest"
+    "@types/bun": "latest",
+    "@types/node": "^20.14.11"
   },
   "module": "index.ts",
   "peerDependencies": {
-    "typescript": "^5.0.0"
+    "typescript": "^5.3.3"
   }
 }
